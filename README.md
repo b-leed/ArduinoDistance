@@ -9,7 +9,7 @@ The diagram above shows how I have designed my Arduino Sensor, with the Ultrason
 
 Range Indicators:
 
-Less than 13cm: Red Pin lights up
-Less than 35cm: Yellow Pin lights up
-More than 35cm: Green Pin lights up
+Less than 13cm: Red Pin lights up\
+Less than 35cm: Yellow Pin lights up\
+More than 35cm: Green Pin lights up\
 
